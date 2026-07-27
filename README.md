@@ -1,5 +1,5 @@
 # RITCOLLEGE-DEMO
 This is my first repository.
 <br>
-author - shravani patil
+author - shravani (rit college)
 
